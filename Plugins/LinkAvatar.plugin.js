@@ -4,7 +4,7 @@
  * @version 1.0
  * @description Allows you to click on a user's Avatar to open it in the browser
  * @invite PKYareHqqz
- * @source https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js
+ * @source https://github.com/Ali-Faruk/Betterdiscord/blob/main/Plugins/LinkAvatar.plugin.js
  */
 
  module.exports = class LinkAvatar {
