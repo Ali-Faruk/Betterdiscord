@@ -3,6 +3,8 @@
  * @version 0.0.1
  * @description With this plugin you can display the classes of objects you click on.
  * @author CODEALI#1093
+ * @invite PKYareHqqz
+ * @source https://github.com/Ali-Faruk/Betterdiscord/blob/main/Plugins/DevClasses.plugin.js
  */
 
 
