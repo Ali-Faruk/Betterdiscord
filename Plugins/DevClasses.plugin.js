@@ -20,7 +20,7 @@
         if(BdApi.loadData("DevClasses", "Enabled") == true){
             BdApi.alert("DevClasses", "Currently Enabled!")
         }else{
-            BdApi.alert("DevClasses", "Currently Disabled!")
+            BdApi.alert("DevClasses", "Currently Disabled! Press (STRG + .) to Enable/Disable")
         }
         let keysPressed = {};
         document.addEventListener('keydown', (event) => {
