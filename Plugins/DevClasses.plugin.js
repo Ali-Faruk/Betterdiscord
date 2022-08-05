@@ -9,7 +9,7 @@
 
 
 
- module.exports = class Example{
+ module.exports = class DevClasses{
 
     load(){
         BdApi.setData("DevClasses", "Enabled", false)
